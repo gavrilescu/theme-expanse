@@ -96,6 +96,12 @@ div.posts div.item .post-content h4 {
   line-height:2rem;
   font-weight: 600;
 }
+
+div.posts div.item .post-content strong {
+color:#666;
+}
+
+
 a {
   cursor: pointer;
   text-decoration: none;
