@@ -60,10 +60,10 @@ a:hover {
   float: right;
 }
 body {
-  font-size: 120%;
+  font-size: 110%;
   font-family: 'Roboto', helvetica, arial, sans-serif;
   color: #0e3029;
-  line-height: 1.48rem;
+  line-height: 1.5rem;
   font-family: 'Roboto';
   font-weight: 300;
   background-color: #f6f6f6;
@@ -77,17 +77,23 @@ h4 {
   font-family: 'Roboto';
   font-weight: 300;
 }
+
 h1 {
-  font-size: 3rem;
-  line-height: 4.2rem;
+  font-size: 2rem;
+  line-height: 2.8rem;
 }
 h2 {
   font-size: 2rem;
   line-height: 2.8rem;
 }
-h3 {
-  font-size: 2rem;
-  line-height: 2.8rem;
+h2 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.item h3 {
+  font-size:3rem;
+}
 }
 a {
   cursor: pointer;
