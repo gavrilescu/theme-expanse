@@ -94,6 +94,7 @@ div.posts div.item .post-content h3 {
 div.posts div.item .post-content h4 {
   font-size:1.4rem;
   line-height:2rem;
+  font-weight: 400;
 }
 a {
   cursor: pointer;
@@ -978,7 +979,8 @@ div.posts div.item .post-content b {
 div.posts div.item .post-content p,
 div.posts div.item .post-content div {
   padding: 12.5px 0;
-  margin: 0;
+  margin: 0 0 0 0;
+
 }
 div.posts div.item .post-content p.gist,
 div.posts div.item .post-content div.gist {
