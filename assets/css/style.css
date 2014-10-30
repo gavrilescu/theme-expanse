@@ -97,6 +97,13 @@ div.posts div.item .post-content h4 {
   font-weight: 600;
 }
 
+div.posts div.item .post-content h5 {
+  font-size:1.2rem;
+  line-height:2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
 div.posts div.item .post-content strong {
 color:#666;
 }
