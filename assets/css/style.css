@@ -100,8 +100,9 @@ div.posts div.item .post-content h4 {
 div.posts div.item .post-content h5 {
   font-size:1.2rem;
   line-height:2rem;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: uppercase;
+  margin:0;
 }
 
 div.posts div.item .post-content strong {
