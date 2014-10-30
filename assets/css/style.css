@@ -87,10 +87,10 @@ div.posts div.item h2 {
   line-height: 2.8rem;
 }
 
-div.posts div.item h3 {
-  font-size:3rem;
-  line-height:4rem;
-  margin-bottom:3rem;
+div.posts div.item div.post-content h3 {
+  font-size:1.6rem;
+  line-height:2rem;
+  margin-bottom:2rem;
 }
 }
 a {
